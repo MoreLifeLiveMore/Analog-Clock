@@ -5,6 +5,12 @@
     font-family: monospace ;
 }
 
+h1{
+    font-size: xx-large !important;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+
 body{
     display: flex;
     justify-content: center;
